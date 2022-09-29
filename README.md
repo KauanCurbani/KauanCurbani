@@ -16,6 +16,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauancurbani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauanCurbani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Apaixonado por tecnologia, estudando pra mudar o mundo por trás de um monitor.
