@@ -14,6 +14,18 @@
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauancurbani/kauancurbani/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauancurbani/kauancurbani/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/kauancurbani/kauancurbani/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+<p align="center">
+  <a href="https://honorbadge.curbas.dev/KauanCurbani"><img src="https://honorbadge.curbas.dev/KauanCurbani/badge.svg?theme=github&count=4&size=widest" alt="HonorBadge" /></a>
+</p>
+
+---
+
 
 ### 👋 &#160;About me
 
@@ -61,19 +73,5 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kauancurbani&amp;layout=compact&amp;langs_count=7&amp;theme=dark&amp;hide_border=true&amp;title_color=2196F3"/>
   <img src="https://streak-stats.demolab.com?user=kauancurbani&amp;mode=daily&amp;theme=dark&amp;hide_border=true&amp;border_radius=5&amp;ring=2196F3&amp;fire=2196F3&amp;currStreakLabel=2196F3" height="195"/>
 </div>
-
----
-
-### 🐍 &#160;Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauancurbani/kauancurbani/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauancurbani/kauancurbani/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/kauancurbani/kauancurbani/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-<p align="center">
-  <a href="https://honorbadge.curbas.dev/KauanCurbani"><img src="https://honorbadge.curbas.dev/KauanCurbani/badge.svg?theme=github&count=4&size=widest" alt="HonorBadge" /></a>
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2196F3,50:1a3a5c,100:0d1117&amp;height=120&amp;section=footer"/>
