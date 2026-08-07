@@ -73,7 +73,7 @@
 </picture>
 
 <p align="center">
-  <a href="https://honorbadge.curbas.dev/KauanCurbani"><img src="https://honorbadge.curbas.dev/KauanCurbani/badge.svg" alt="HonorBadge" /></a>
+  <a href="https://honorbadge.curbas.dev/KauanCurbani"><img src="https://honorbadge.curbas.dev/KauanCurbani/badge.svg?theme=github&count=3" alt="HonorBadge" /></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2196F3,50:1a3a5c,100:0d1117&amp;height=120&amp;section=footer"/>
